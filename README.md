@@ -25,7 +25,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone [https://github.com/yourusername/python-autoclicker.git](https://github.com/pomavolochay/SimpleMacros.git)
+git clone https://github.com/pomavolochay/SimpleMacros.git
 cd python-autoclicker
 ```
 
